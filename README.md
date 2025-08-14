@@ -12,7 +12,6 @@
 
 ### 🌱 Currently Learning
 - **Advanced AI techniques** & model fine-tuning  
-- **ROS2** for robotics applications  
 - **Cloud-based ML deployments**  
 
 ---
@@ -38,7 +37,7 @@
 ---
 
 ### 🌐 Languages
-🇹🇷 🇬🇧 🇫🇷 🇩🇪  
+🇹🇷 🇬🇧 
 
 ---
 
