@@ -1,8 +1,12 @@
 
-<!-- Hareketli Yazı, tek animasyon loop -->
+<!-- Hareketli Yazı, ilk satır sonra 3 satır aynı anda -->
 <p align="center">
   <a href="https://github.com/neibe.pekcakar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+the+future+with+code+and+curiosity.;Somewhere,+something+incredible;is+waiting+to+be+known.;–+Carl+Sagan&repeat=true">
+    <!-- 1. satır -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+the+future+with+code+and+curiosity.&repeat=true">
+    <br>
+    <!-- Son 3 satır aynı anda -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Somewhere,+something+incredible%0Dis+waiting+to+be+known.%0D–+Carl+Sagan&repeat=true">
   </a>
 </p>
 
