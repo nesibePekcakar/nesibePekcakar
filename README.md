@@ -30,6 +30,15 @@
 - Innovative, futuristic software solutions  
 
 ---
+## 📂 Concept-Only Portfolio
+Some of my work is under NDA and remains private, but here are examples of the type of projects I've built:
+
+- **AI Error Suggestion System** – Fine-tuned models to suggest solutions based on error messages.
+- **Generative AI for ERP** – Integrated LLM-based assistants into enterprise ERP workflows.
+- **Data Paraphrasing Tool** – Automated dataset enrichment for AI model training.
+- **Colab-Based Training Pipelines** – Managed, trained, and evaluated models like TinyLLaMA and Mistral-7B.
+
+---
 
 ## 💬 Ask Me About
 - Generative AI & Large Language Models  
