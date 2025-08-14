@@ -1,18 +1,14 @@
 <!-- Banner -->
-![Banner](https://github.com/nesibePekcakar/nesibePekcakar/blob/main/banner.png.png?raw=true)
+![Banner](https://github.com/nesibePekcakar/nesibePekcakar/blob/main/banner.png?raw=true)
 
 <!-- Hareketli Yazı -->
 <p align="center">
-  <a href="https://github.com/nesbe">
+  <a href="https://github.com/neibe.pekcakar">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+the+future+with+code+and+curiosity.;Carl+Sagan:+Somewhere,+something+incredible+is+waiting+to+be+known.">
   </a>
 </p>
 
 # Hi 👋, I'm Nesibe
-
-> *"Designing the future with code and curiosity."*  
-> — *Carl Sagan: "Somewhere, something incredible is waiting to be known."*  
-
 ---
 
 🎓 **Computer Engineering Graduate** passionate about **AI**, **software development**, and exploring the unknown frontiers of technology.  
