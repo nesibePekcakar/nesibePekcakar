@@ -1,6 +1,7 @@
 # Hi 👋, I'm Nesibe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&width=550&lines=Designing+the+future+with+code+and+curiosity.;Carl+Sagan%3A+%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22)](https://git.io/typing-svg)
+> *"Designing the future with code and curiosity."*  
+> — *Carl Sagan: "Somewhere, something incredible is waiting to be known."*  
 
 ---
 
