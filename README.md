@@ -1,11 +1,8 @@
 
-<!-- Hareketli Yazı -->
-<!-- Hareketli Yazı -->
+<!-- Hareketli Yazı, tek animasyon loop -->
 <p align="center">
   <a href="https://github.com/neibe.pekcakar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+the+future+with+code+and+curiosity.">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Carl+Sagan:+Somewhere,+something+incredible+is+waiting+to+be+known.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Designing+the+future+with+code+and+curiosity.;Somewhere,+something+incredible;is+waiting+to+be+known.;–+Carl+Sagan&repeat=true">
   </a>
 </p>
 
